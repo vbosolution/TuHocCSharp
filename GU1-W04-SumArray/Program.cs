@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GU1_W04
+namespace GU1_W04_SumArray
 {
     internal class Program
     {

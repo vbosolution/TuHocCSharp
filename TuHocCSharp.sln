@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04", "GU1-W04\GU1-W04.csproj", "{B166E92F-4C5D-4E6E-9E2D-07ADF14D7255}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-SumArray", "GU1-W04\GU1-W04-SumArray.csproj", "{B166E92F-4C5D-4E6E-9E2D-07ADF14D7255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-FindInArray", "GU1-W04-FindInArray\GU1-W04-FindInArray.csproj", "{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B166E92F-4C5D-4E6E-9E2D-07ADF14D7255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B166E92F-4C5D-4E6E-9E2D-07ADF14D7255}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B166E92F-4C5D-4E6E-9E2D-07ADF14D7255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
