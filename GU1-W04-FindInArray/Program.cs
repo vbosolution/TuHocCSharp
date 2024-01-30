@@ -38,6 +38,7 @@ namespace GU1_W04_FindInArray
             //{
             //    Console.WriteLine("Not found" + input_name + " in the list.");
             //}
+
             int index = Array.IndexOf(students, input_name);
             if (index == -1)
             {
@@ -46,6 +47,7 @@ namespace GU1_W04_FindInArray
             {
                 Console.WriteLine("Position of the students in the list " + input_name + " is: " + index);
             }
+
             Console.Write("Press any key...");
             Console.ReadKey();
         }

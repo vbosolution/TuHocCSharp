@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-SumArray", "GU1-W04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-FindInArray", "GU1-W04-FindInArray\GU1-W04-FindInArray.csproj", "{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-ArrayMaxElement", "GU1-W04-ArrayMaxElement\GU1-W04-ArrayMaxElement.csproj", "{035C80CE-58B6-47C4-B4FA-C64AC914EE9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A1C4A0D-7DBE-46AF-83F0-87D7E0BD061C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035C80CE-58B6-47C4-B4FA-C64AC914EE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035C80CE-58B6-47C4-B4FA-C64AC914EE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035C80CE-58B6-47C4-B4FA-C64AC914EE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035C80CE-58B6-47C4-B4FA-C64AC914EE9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
