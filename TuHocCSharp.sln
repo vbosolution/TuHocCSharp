@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-ArrayMaxElement", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-InsertAValueAtIndex", "GU1-W04-InsertAValueAtIndex\GU1-W04-InsertAValueAtIndex.csproj", "{A90CC063-F0B7-4B8B-B1CF-BAC22CC3222F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "240219 - MangNhieuChieu", "240219 - MangNhieuChieu\240219 - MangNhieuChieu.csproj", "{6A1DE671-5E95-48D9-9AD8-6B73815303A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A90CC063-F0B7-4B8B-B1CF-BAC22CC3222F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90CC063-F0B7-4B8B-B1CF-BAC22CC3222F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90CC063-F0B7-4B8B-B1CF-BAC22CC3222F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1DE671-5E95-48D9-9AD8-6B73815303A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1DE671-5E95-48D9-9AD8-6B73815303A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1DE671-5E95-48D9-9AD8-6B73815303A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1DE671-5E95-48D9-9AD8-6B73815303A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
