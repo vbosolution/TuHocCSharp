@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W04-InsertAValueAtIndex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "240219 - MangNhieuChieu", "240219 - MangNhieuChieu\240219 - MangNhieuChieu.csproj", "{6A1DE671-5E95-48D9-9AD8-6B73815303A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "240222 - MineMap", "240222 - MineMap\240222 - MineMap.csproj", "{08626414-6F78-4DEF-A5D2-3633D626BDDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6A1DE671-5E95-48D9-9AD8-6B73815303A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A1DE671-5E95-48D9-9AD8-6B73815303A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A1DE671-5E95-48D9-9AD8-6B73815303A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08626414-6F78-4DEF-A5D2-3633D626BDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08626414-6F78-4DEF-A5D2-3633D626BDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08626414-6F78-4DEF-A5D2-3633D626BDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08626414-6F78-4DEF-A5D2-3633D626BDDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
