@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#240224_CountCharInString"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake-Game", "Snake-Game\Snake-Game.csproj", "{FB504FB6-DADA-420B-95F8-AAF154772169}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "240227 - OOP - Rectangle", "240227 - OOP - Rectangle\240227 - OOP - Rectangle.csproj", "{2C5E88E8-4BE8-4C72-B3CA-B71BEEA58579}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FB504FB6-DADA-420B-95F8-AAF154772169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB504FB6-DADA-420B-95F8-AAF154772169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB504FB6-DADA-420B-95F8-AAF154772169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5E88E8-4BE8-4C72-B3CA-B71BEEA58579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5E88E8-4BE8-4C72-B3CA-B71BEEA58579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5E88E8-4BE8-4C72-B3CA-B71BEEA58579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5E88E8-4BE8-4C72-B3CA-B71BEEA58579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
