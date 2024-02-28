@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W06-Static Method", "GU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W06-Fan Class", "GU1-W06-Fan Class\GU1-W06-Fan Class.csproj", "{0A4630F2-30A8-436D-B07F-3CAB2500282B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W06-StopWatch Class", "GU1-W06-StopWatch Class\GU1-W06-StopWatch Class.csproj", "{50D49C4A-6C1E-4CE3-A438-119FA28AC7B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0A4630F2-30A8-436D-B07F-3CAB2500282B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A4630F2-30A8-436D-B07F-3CAB2500282B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A4630F2-30A8-436D-B07F-3CAB2500282B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D49C4A-6C1E-4CE3-A438-119FA28AC7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D49C4A-6C1E-4CE3-A438-119FA28AC7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D49C4A-6C1E-4CE3-A438-119FA28AC7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D49C4A-6C1E-4CE3-A438-119FA28AC7B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
