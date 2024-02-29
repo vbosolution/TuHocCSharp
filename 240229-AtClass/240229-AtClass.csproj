@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{56C6C7BA-C970-4284-96D9-9BBFEF9CE7A8}</ProjectGuid>
+    <ProjectGuid>{33A4F606-B525-45EA-AE52-9425EE8A103B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GU1_W05_F2C</RootNamespace>
-    <AssemblyName>GU1-W05-F2C</AssemblyName>
+    <RootNamespace>_240229_AtClass</RootNamespace>
+    <AssemblyName>240229-AtClass</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

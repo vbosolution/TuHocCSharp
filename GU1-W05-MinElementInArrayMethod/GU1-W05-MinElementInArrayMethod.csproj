@@ -7,7 +7,7 @@
     <ProjectGuid>{938982AD-48BD-4844-AFCE-27A06444318E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>GU1_W05_MinElementInArrayMethod</RootNamespace>
-    <AssemblyName>GU1_W05_MinElementInArrayMethod</AssemblyName>
+    <AssemblyName>GU1-W05-MinElementInArrayMethod</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

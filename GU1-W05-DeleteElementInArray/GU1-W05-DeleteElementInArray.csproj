@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{56C6C7BA-C970-4284-96D9-9BBFEF9CE7A8}</ProjectGuid>
+    <ProjectGuid>{55854453-E42D-4947-8210-1225E8B9B96E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GU1_W05_F2C</RootNamespace>
-    <AssemblyName>GU1-W05-F2C</AssemblyName>
+    <RootNamespace>GU1_W05_DeleteElementInArray</RootNamespace>
+    <AssemblyName>GU1-W05-DeleteElementInArray</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
