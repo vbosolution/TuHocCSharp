@@ -11,6 +11,17 @@ namespace _240229_AtClass
         public Shape() { }
         public abstract double Area();
         public abstract double Perimeter();
+
+        public virtual bool Equals(object obj)
+        {
+            if (obj is Shape shape)
+            {
+                return shape.Area() == Area() && shape.Perimeter() == Perimeter();
+            } else
+            {
+                return false;
+            }
+        }
     }
     internal class Circle : Shape
     {
@@ -29,6 +40,10 @@ namespace _240229_AtClass
         public override double Perimeter()
         {
             return 2 *radius * Math.PI;
+        }
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
         }
         public override string ToString()
         {
@@ -59,6 +74,10 @@ namespace _240229_AtClass
         public override string ToString()
         {
             return $"Rectangle - w x h = {width} x {height};\nS = {Area()}; P = {Perimeter()}";
+        }
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
         }
     }
 }

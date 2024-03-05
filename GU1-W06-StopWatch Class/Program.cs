@@ -21,7 +21,7 @@ namespace GU1_W06_StopWatch_Class
             SelectionSort(array);
             stopWatch.Stop();
 
-            Console.WriteLine($"After sort: {String.Join(" ", array.Select(x => x.ToString()))}");
+            //Console.WriteLine($"After sort: {String.Join(" ", array.Select(x => x.ToString()))}");
 
             Console.WriteLine($"Total time of the Selection Sort algorithm for a 100K elements array: {stopWatch.GetElapsedTime()} milliseconds");
             Console.ReadKey();

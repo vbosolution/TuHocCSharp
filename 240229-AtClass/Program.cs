@@ -22,8 +22,10 @@ namespace _240229_AtClass
             Console.WriteLine(rectangle);
             rectangle = new Rectangle(2.3, 5.8);
             Console.WriteLine(rectangle);
-            Console.ReadKey();
 
+            Rectangle r = new Rectangle(5.8, 2.3);
+            Console.WriteLine(r.Equals(rectangle));
+            Console.ReadKey();
         }
     }
 }
