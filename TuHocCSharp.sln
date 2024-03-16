@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W07-ICompareableInterfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W07-IComparerInterface", "GU1-W07-IComparerInterface\GU1-W07-IComparerInterface.csproj", "{AFF88B00-6AC9-42CF-ABB6-5241221E1DC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W07-ResizeableInterface", "GU1-W07-ResizeableInterface\GU1-W07-ResizeableInterface.csproj", "{EEA2F8BC-A8B6-474F-8D1D-004C6C362E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{AFF88B00-6AC9-42CF-ABB6-5241221E1DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF88B00-6AC9-42CF-ABB6-5241221E1DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF88B00-6AC9-42CF-ABB6-5241221E1DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA2F8BC-A8B6-474F-8D1D-004C6C362E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA2F8BC-A8B6-474F-8D1D-004C6C362E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA2F8BC-A8B6-474F-8D1D-004C6C362E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA2F8BC-A8B6-474F-8D1D-004C6C362E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
