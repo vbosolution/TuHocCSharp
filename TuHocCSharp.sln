@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W08-IndexOutOfRangeExce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W08-SumNumberInFile", "GU1-W08-SumNumberInFile\GU1-W08-SumNumberInFile.csproj", "{0445DA5F-0424-4B23-B7B6-356FC2AFF8EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GU1-W07-AnimalClassAndEdibleInterface", "GU1-W07-AnimalClassAndEdibleInterface\GU1-W07-AnimalClassAndEdibleInterface.csproj", "{4A5C31EC-DFBB-4596-83DC-2102C98FBD23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{0445DA5F-0424-4B23-B7B6-356FC2AFF8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0445DA5F-0424-4B23-B7B6-356FC2AFF8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0445DA5F-0424-4B23-B7B6-356FC2AFF8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5C31EC-DFBB-4596-83DC-2102C98FBD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5C31EC-DFBB-4596-83DC-2102C98FBD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5C31EC-DFBB-4596-83DC-2102C98FBD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5C31EC-DFBB-4596-83DC-2102C98FBD23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
